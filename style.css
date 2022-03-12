@@ -1,0 +1,43 @@
+body {
+    color:white;
+    background-color: rgb(108, 253, 108);
+}
+
+#title {
+    letter-spacing: 10px;
+    font-size: 20px;
+}
+
+p {
+    background-color:darkgreen;
+    font-size: 17px;
+    border-radius: 10px;
+}
+
+.gestures {
+    margin: 15px;
+    font-size: 19px;
+}
+
+.divLabel {
+    background-color:white;
+    padding: 7px;
+    color: darkgreen;
+    border-radius: 10px;
+}
+
+#camera,
+#result {
+    width: 350px;
+    height: 300px;
+    border: 5px white dashed;
+}
+
+#emojiIMAGE {
+    width: 150px;
+    height: 150px;
+    background-color: darkgreen;
+    padding: 3px;
+    border-radius: 10px;
+    font-size: 100px;
+}
